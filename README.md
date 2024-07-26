@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Sven Moleman (@svenmoleman)
 - 👀 I’m interested in web development and dev-ops
-- 💼 I'm working as a full-stack web developer
+- 💼 I work as a full-stack software engineer (.NET)
 - 🌱 I like to hike, game and watch movies
+- 🐕 I have a golden retriever named Nala
